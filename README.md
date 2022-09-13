@@ -97,8 +97,7 @@ moveGame("front")
 
 ## Scope
 Scope is a variable acces
-it refers to the context of which determines the accessibility of the variables.
-in this javaScript context, the window is the root scope.
+in javaScript context, the window is the root scope.
 There are two types of scope the global scope and the local scope.
 Global scope are the ones declared outside of the block while local scope are those declared inside the block.
 
